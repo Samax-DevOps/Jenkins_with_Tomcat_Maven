@@ -1,6 +1,6 @@
 # tomcat-project
 
-***********************Install Apache-TOMCAT************************************** 
+***********************Install Apache-TOMCAT************************************ 
 sudo apt update 
 sudo apt install openjdk-11-jdk
 java -version
